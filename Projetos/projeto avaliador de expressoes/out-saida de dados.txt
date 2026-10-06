@@ -1,0 +1,10 @@
+14
+20
+6
+6
+Erro: divisao por zero
+0
+Erro: sintaxe invalida
+2
+2
+Erro: sintaxe invalida

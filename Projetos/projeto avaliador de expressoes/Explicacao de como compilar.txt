@@ -1,0 +1,3 @@
+Para compilar abra o cmd ou PowerShell dentro da pasta e digite:gcc -std=c99 main.c avaliador.c Pilha.c Fila.c Pilha_int.c -o avaliador
+
+Depois de ccompilar para executar digite:  ./avaliador in.txt out.txt
